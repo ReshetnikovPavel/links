@@ -8,7 +8,8 @@ enableEmoji = true
   headline = "Programming enthusiast, DnD game master, fan of metalcore, j-pop and jazz"
   image = "ReshetnikovPavel.jpg"
   links = [
-    { link = { href = "https://github.com/ReshetnikovPavel", text = "Github", icon = "github" } },
     { link = { href = "https://t.me/reshetnikovpavel", text = "Telegram", icon = "telegram" } },
+    { link = { href = "https://t.me/+DM_lb8M1W4gzMzIy", text = "My Telegram channel", icon = "telegram" } },
+    { link = { href = "https://github.com/ReshetnikovPavel", text = "Github", icon = "github" } },
     { link = { href = "https://social.linux.pizza/@pavelresh", text = "Mastodon", icon = "mastodon" } },
   ]
